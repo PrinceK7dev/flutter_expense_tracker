@@ -1,16 +1,24 @@
-# expence_tracker_app
+# Expense Tracker
 
-A new Flutter project.
+A Flutter app for tracking daily expenses and managing personal finances.
+
+## Features
+
+- Add and manage everyday expenses
+- Clean state management with Provider (`ChangeNotifier`)
+- Simple, focused home screen UI
+
+## Tech Stack
+
+- **Flutter & Dart**
+- **Provider** for state management
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Screenshots coming soon._
